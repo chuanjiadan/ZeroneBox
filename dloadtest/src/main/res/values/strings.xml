@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DloadTest</string>
+    <string name="load_apk">加载插件apk</string>
+</resources>

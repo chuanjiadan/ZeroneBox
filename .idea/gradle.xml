@@ -9,6 +9,9 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/dloadtest" />
+            <option value="$PROJECT_DIR$/dowlodreceive" />
+            <option value="$PROJECT_DIR$/mlog" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
